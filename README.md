@@ -24,7 +24,7 @@ This repository demonstrates a predictive model that evaluates YouTube comments 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/song-popularity-prediction.git
+   git clone https://github.com/tranhoangminh1412/song-popularity-prediction
    cd song-popularity-prediction
 2. Install dependencies:
    ```bash
