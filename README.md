@@ -24,16 +24,13 @@ The House Price Predictor is designed to analyze housing market data, focusing o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/house-price-predictor.git
+   git clone https://github.com/tranhoangminh1412/house-price-predictor
    cd house-price-predictor
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-3. Usage
+2. Usage
 - Data Preprocessing: Run preprocess.py in src/ to clean and preprocess the dataset.
 - Model Training: Execute train_model.py to train and evaluate the linear regression model.
 - Prediction: Use predict.py to make price predictions for new property data.
-4. Results
+3. Results
 - The linear regression model performs well on the test data, accurately predicting house prices based on key property attributes. Visualization tools in this project illustrate the relationships between features and predicted prices.
 
 ## Future Work
