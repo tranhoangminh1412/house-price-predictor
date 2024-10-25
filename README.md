@@ -27,14 +27,14 @@ This repository demonstrates a predictive model that evaluates YouTube comments 
    git clone https://github.com/yourusername/song-popularity-prediction.git
    cd song-popularity-prediction
 2. Install dependencies:
-pip install -r requirements.txt
-
+   ```bash
+   pip install -r requirements.txt
 3. Usage
-  Data Preprocessing: Run preprocess.py in src/ to clean and prepare data.
-  Model Training: Execute train_model.py to train and evaluate the k-NN model.
-  Prediction: Use predict.py to make popularity predictions on new data.
+  - Data Preprocessing: Run preprocess.py in src/ to clean and prepare data.
+  - Model Training: Execute train_model.py to train and evaluate the k-NN model.
+  - Prediction: Use predict.py to make popularity predictions on new data.
 4. Results
-  The k-NN model achieved high accuracy in predicting song popularity based on comment sentiment and engagement levels, highlighting the value of social feedback in popularity forecasting.
+  - The k-NN model achieved high accuracy in predicting song popularity based on comment sentiment and engagement levels, highlighting the value of social feedback in popularity forecasting.
 
 ## Future Work
 Experiment with additional models (e.g., SVM, Random Forest)
